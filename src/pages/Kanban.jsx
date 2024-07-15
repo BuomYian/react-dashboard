@@ -4,9 +4,8 @@ import {
   ColumnsDirective,
   ColumnDirective,
 } from "@syncfusion/ej2-react-kanban";
-import { kanbanGrid, kanbanData, scheduleData } from "../data/dummy";
+import { kanbanGrid, kanbanData } from "../data/dummy";
 import { Header } from "../components";
-import { ScheduleComponent } from "@syncfusion/ej2-react-schedule";
 
 const Kanban = () => {
   return (
